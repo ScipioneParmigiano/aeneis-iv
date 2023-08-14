@@ -1,7 +1,5 @@
 ---
 title: "Aeneidos liber IV"
-seoTitle: "The translation of the most beautiful part of Vergil's masterpiece."
-seoDescription: "The low-definition translation of the most beautiful part of Vergil's masterpiece, made by Pietro Zanotta."
 datePublished: Mon Aug 07 2023 09:04:46 GMT+0000 (Coordinated Universal Time)
 cuid: cll0ncfx7001v09judys9bui4
 slug: aeneidos-liber-iv
